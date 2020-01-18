@@ -1,0 +1,51 @@
+#efeito {
+	width: 100px;
+	height: 100px;
+	border: 1px solid black;
+}
+
+.destaque {
+	background-color: red;
+	width: 200px !important;
+}
+
+.encolher {
+	background-color: gray;
+	width: 50px !important;
+}
+
+.item2-cor {
+	background-color: burlywood;
+}
+
+.item2-tamanho {
+	width: 200px;
+	height: 200px;
+}
+
+.item3-cor {
+	background-color: chartreuse;
+}
+
+.item3-cor2 {
+	background-color: cornflowerblue;
+}
+
+.item3-tamanho {
+	width: 500px;
+	height: 50px;
+}
+
+.item4 {
+	widows: 20px;
+	height: 20px;
+	background-color: gray;
+}
+
+.blue {
+	background-color: blue;
+}
+
+.red {
+	background-color: red;
+}

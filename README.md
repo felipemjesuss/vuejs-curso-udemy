@@ -17,3 +17,7 @@ VueJS é um framework Javascript fantástico p construir aplicações Frontend! 
     1) Exiba um alert quando o botão for clicado
     2) Escute o evento "keydown" e armazene "valor" na propriedade data (dica: event.target.value)
     3) Ajuste o exemplo 3 pra disparar o evento "keydown" somente quando a tecla for ENTER
+
+## Desafio 3
+    1) Exibir em "resultado" o texto 'Valor Diferente' enquanto "valor" for diferente de 37. Mostrar 'Valor Igual' quando "valor" for igual a 37
+    2) Monitorar as mudança de "resultado" e reiniciar "valor" para 0 depois 5 segundos (dica: setTimeout(..., 5000))

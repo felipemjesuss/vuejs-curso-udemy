@@ -29,3 +29,9 @@ VueJS é um framework Javascript fantástico p construir aplicações Frontend! 
     4) Aplique na div abaixo a classe informada pelo usuário e outra classe usando o valor true/false (crie classes CSS de exemplo)
     5) Repita 3) mas utilizando estilos ao invés de classes CSS. Associe os estilos a div abaixo
     6) Crie uma barra de progresso simples com setInterval e binding de estilo
+
+## Desafio 5
+    1) Ligue o botão para alternar a exibição dos dois parágrafos. Use ambos v-if e v-show e inspecione os elementos para ver a diferença
+    2) Exiba em uma <ul> um array de elementos da sua escolha. Imprima também o índice de cada elemento.
+    3) Imprimir todos os pares de valor-chave do objeto livro. Imprima também o índice de cada item.
+    4) Imprima o seguinte objeto (somente os valores) e também crie um loop aninhado para o array aluno. (dica: use v-for e v-if na resolução)

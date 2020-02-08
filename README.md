@@ -35,3 +35,7 @@ VueJS é um framework Javascript fantástico p construir aplicações Frontend! 
     2) Exiba em uma <ul> um array de elementos da sua escolha. Imprima também o índice de cada elemento.
     3) Imprimir todos os pares de valor-chave do objeto livro. Imprima também o índice de cada item.
     4) Imprima o seguinte objeto (somente os valores) e também crie um loop aninhado para o array aluno. (dica: use v-for e v-if na resolução)
+
+# Projetos
+
+## Projeto 01 - O Matador de Monstros

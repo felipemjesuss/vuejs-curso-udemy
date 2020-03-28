@@ -4,24 +4,28 @@
 
 		<Toolbar />
 
-		<Content />
+		<v-content>
+
+			<Carousel />
+
+		</v-content>
 
 		<Footer />
 	</v-app>
 </template>
 
 <script>
-import Navigarion from './Navigation.vue'
-import Toolbar from './Toolbar.vue'
-import Content from './Content.vue'
-import Footer from './Footer.vue'
+	import Navigarion from './Navigation.vue'
+	import Toolbar from './Toolbar.vue'
+	import Footer from './Footer.vue'
+	import Carousel from './Content.vue'
 
-export default {
-	components: { 
-		Navigarion,
-		Toolbar,
-		Content,
-		Footer
+	export default {
+		components: { 
+			Navigarion,
+			Toolbar,
+			Carousel,
+			Footer
+		}
 	}
-}
 </script>
